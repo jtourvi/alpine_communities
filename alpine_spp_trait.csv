@@ -1,0 +1,93 @@
+species,group,stature,life_form
+Abies balsamea,transitional,3,tree
+Agrostis mertensii,arctic,2,gram
+Alnus viridis  ssp. crispa ,transitional,3,tree
+Andreaea rupestris,arctic,2,bryo
+Anthoxanthum monticola,arctic,3,gram
+Arctoparmelia centrifuga,arctic,2,lichen
+Aspicilia cinerea,arctic,2,lichen
+Betula cordifolia,transitional,3,tree
+Bistorta vivipara,arctic,3,forb
+Campanula rotundifolia,transitional,3,forb
+Carex bigelowii,arctic,2,gram
+Carex brunnescens,transitional,2,gram
+Cetraria spp.,arctic,2,lichen
+Chamaedaphne calyculata,non-arctic,3,shrub
+Cladonia amaurocraea,arctic,2,lichen
+Cladonia arbuscula,arctic,2,lichen
+Cladonia stellaris,transitional,2,lichen
+Cladonia stygia,transitional,2,lichen
+Cladonia rangiferina,transitional,2,lichen
+Cladonia spp.,transitional,2,lichen
+Cladonia crispata,transitional,2,lichen
+Cladonia uncialis,arctic,2,lichen
+Conostomum tetragonum,arctic,2,bryo
+Cladonia pleurota,transitional,2,lichen
+Coptis trifolia,non-arctic,2,forb
+Cornus canadensis,non-arctic,2,forb
+Deschampsia flexuosa,non-arctic,2,gram
+Diapensia lapponica,arctic,2,forb
+Dicranum elongatum,arctic,2,bryo
+Drosera rotundifolia,non-arctic,2,forb
+Empetrum nigrum,transitional,2,forb
+Eriophorum vaginatum var. spissum,non-arctic,2,gram
+Flavocetraria cucullata,transitional,2,lichen
+Geocaulon lividum,transitional,2,lichen
+Geum peckii,arctic,2,forb
+grass,transitional,2,gram
+Gymnocolea inflata,non-arctic,2,bryo
+Hypnum imponens,non-arctic,2,bryo
+Juncus trifidus,transitional,2,gram
+Kalmia angustifolia,non-arctic,3,shrub
+Kalmia polifolia,non-arctic,3,shrub
+Kalmia procumbens,transitional,3,shrub
+Larix laricina,non-arctic,3,tree
+Leucobryum glaucum,non-arctic,2,bryo
+lichen,transitional,2,lichen
+Lycopodium selago,non-arctic,2,lyco
+Lycopodium spp.,non-arctic,2,lyco
+Maianthemum canadense,non-arctic,2,forb
+Marsupella emarginata,non-arctic,2,bryo
+Minuartia groenlandica,transitional,2,forb
+moss,transitional,2,bryo
+Nabalus spp.,non-arctic,2,forb
+Nabalus trifoliolata,non-arctic,2,forb
+Ochrolechia frigida,arctic,2,lichen
+Picea mariana,transitional,3,tree
+Picea rubens,non-arctic,3,tree
+Pleurozium schreberi,transitional,2,bryo
+Pogonatum alpinum,transitional,2,bryo
+Pogonatum urnigerum,transitional,2,bryo
+Pohlia nutans,non-arctic,2,bryo
+Polytrichum juniperinum,non-arctic,2,bryo
+Polytrichum spp.,non-arctic,2,bryo
+Polytrichum strictum,non-arctic,2,bryo
+Prenanthes nana,non-arctic,2,forb
+Prenanthes spp.,non-arctic,2,forb
+Rhacomitrium fasciculare,transitional,2,bryo
+Rhizocarpon geographicum,transitional,2,lichen
+Rhododendron groenlandicum,transitional,3,shrub
+Rhododendron lapponicum,arctic,2,shrub
+rock,non-plant,2,non_plant
+Salix uva-ursi,arctic,2,tree
+Sibbaldiopsis tridentata,arctic,2,forb
+soil,non-plant,2,non_plant
+Solidago leiocarpa,transitional,2,forb
+Solidago macrophylla,transitional,3,forb
+Sphagnum pylaesii,non-arctic,2,bryo
+Sphagnum spp.,non-arctic,2,bryo
+Spinulum annotinum,transitional,2,lyco
+Spinulum canadense,transitional,2,lyco
+Spiraea alba var. latifolia,non-arctic,3,forb
+Stereocaulon spp.,arctic,2,lichen
+Thamnolia spp.,non-arctic,2,lichen
+Trapeliopsis spp.,arctic,2,lichen
+Trichophorum cespitosum,non-arctic,2,gram
+Trientalis borealis,non-arctic,2,forb
+Umbilicaria spp.,non-arctic,2,lichen
+Vaccinium angustifolium,non-arctic,3,shrub
+Vaccinium boreale,arctic,3,shrub
+Vaccinium cespitosum,transitional,3,shrub
+Vaccinium oxycoccos ,non-arctic,2,shrub
+Vaccinium uliginosum,transitional,3,shrub
+Vaccinium vitis-idaea,transitional,3,shrub

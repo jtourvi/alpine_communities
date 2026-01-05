@@ -8,7 +8,8 @@ Vegetation and environmental data from long-term transects in Northeastern US al
 
 # Data (.csv)
 
-#MWO_raw: Full time series temperature data from summit of Mt. Washington collected by Mt. Washington Observatory.
+MWO_raw: Full time series temperature data from summit of Mt. Washington collected by Mt. Washington Observatory.
+
 #MWO_temp: Cleaned time series temperature data from summit of Mt. Washington collected by Mt. Washington Observatory.
 #NADP_sum: Chemistry data from four northeastern US NADP sites from late 1970's to present (nitrate, sulfate, ammonium, total organic carbon).
 #Wright_2: Subset of transition states for the Adirondacks - just for visualization

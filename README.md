@@ -4,7 +4,7 @@ Vegetation and environmental data from long-term transects in Northeastern US al
 # File and Data Description 
 # Code (.R)
 
-#Alpine_comm.R: Code for running data entry, cleaning, analysis, and data visualization
+Alpine_comm.R: Code for running data entry, cleaning, analysis, and data visualization
 
 # Data (.csv)
 

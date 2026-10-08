@@ -14,11 +14,21 @@ MWO_temp: Cleaned time series temperature data from summit of Mt. Washington col
 
 NADP_sum: Chemistry data from four northeastern US NADP sites from late 1970's to present (nitrate, sulfate, ammonium, total organic carbon).
 
-Wright_2: Subset of transition states for the Adirondacks - just for visualization
+whf_chem: Chemistry data from Whiteface Mountain (NY) from the 1980's to present (nitrate, sulfate, ammonium, total organic carbon).
+
+chem_raw: Chemistry data from Lakes of the Clouds site (NH) from the 1980's to present (nitrate, sulfate, ammonium, total organic carbon).
+
+clound_ph: Cloud based pH data collected near Lakes of the Clouds Hut on Mt. Washington (NH) starting from 1980's to present.
+
+Wright_2: Subset of transition states for the Adirondacks - just for visualization.
 
 a_spp: Species trait information for just the Adirondack sites.
 
-adk_tile: Subset of transition values for the Adirondacks - just for visualization
+w_spp: Species trait information for just the White Mountain sites.
+
+adk_tile: Subset of transition values for the Adirondacks - just for visualization.
+
+wm_tile: Subset of transition values for the White Mountains - just for visualization.
 
 alp_cov_matrix1: Matrix of species releative cover values for the Adirondacks.
 
@@ -32,14 +42,14 @@ alpine_site_env_w: Site-level environmental data subset for just the White Mount
 
 alpine_spp_trait: Species traits (stature, life form, and biogeographic group) for all species recorded in all alpine surveys.
 
-chem_raw: Chemistry data from Lakes of the Clouds site (NH) from the 1980's to present (nitrate, sulfate, ammonium, total organic carbon).
-
-clound_ph: Cloud based pH data collected near Lakes of the Clouds Hut on Mt. Washington (NH) starting from 1980's to present.
-
 master_alpine_comm_data: Matrix of species presence/absence values for all sites across all years.
 
 source_data1: Raw line-interecpt data from historical NH-based surveys. Also used for transition values for visualization of White Mountain data.
 
-w_spp: Species trait information for just the White Mountain sites.
+# Data - Shapefile (.cpg, .dbf, .prj, .shp, .shx)
 
-whf_chem: Chemistry data from summit of Whiteface Mountain (NY) from 1990's to present (nitrate, sulfate, ammonium, total organic carbon).
+cb_2018_us_state_20m: Boundary shapefile for all US states and Canadian territories. Used for map in Figure 1 of associated publication. CRS = WGS84. Source = USGS.
+
+# Data - Raster (.tif)
+
+na_clip: Digital elevation model (DEM) of North America clipped to Northeastern region. Used for map in Figure 1 of associated publication. CRS = WGS84. Source = USGS. Spatial resolution = 30m, pixels = elevation value in meters.

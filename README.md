@@ -6,9 +6,18 @@ Vegetation and environmental data from long-term transects in Northeastern US al
 
 Alpine_comm.R: Code for running data entry, cleaning, analysis, and data visualization
 
-# Data (.csv)
+# Data (.csv) - with colum-level metadata (column name, data type, description, ancillary information)
 
 MWO_raw: Full time series temperature data from summit of Mt. Washington collected by Mt. Washington Observatory.
+  
+  NAME (text) - name of site
+  DATE (date) - month/day/year of observation
+  TMAX (numeric) - daily max temperature in Celcius
+  TMIN (numeric) - daily min temperature in Celcius
+  TMEAN (numeric) - daily mean temperature in Celcius
+  YEAR (numeric) - year of observation
+  MONTH (numeric) - month of observation
+  DAY (numeric) - day of month of observation
 
 MWO_temp: Cleaned time series temperature data from summit of Mt. Washington collected by Mt. Washington Observatory.
 
